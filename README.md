@@ -11,8 +11,8 @@ Sou um desenvolvedor em evolução, focado em aprimorar habilidades em Java, Mys
 - **Controle de Versão:** Git & GitHub
 
 ## 📊 Estatísticas do GitHub
-![Estatísticas do meu GitHub](https://github-readme-stats.vercel.app/api?username=Padilh4&show_icons=true&theme=radical)
+![Estatísticas do meu GitHub](https://github-readme-stats.vercel.app/api?userna>
 
 ## ✉️ Contato
 - **GitHub:** [Padilh4](https://github.com/Padilh4)
-- **Gmail:** arthurcpadilha@gmail.com
+- **Gmail:**  arthurcpadilha@gmail.com
