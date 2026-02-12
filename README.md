@@ -10,9 +10,6 @@ Sou um desenvolvedor em evolução, focado em aprimorar habilidades em Java, Mys
 - **IDE:** NetBeans
 - **Controle de Versão:** Git & GitHub
 
-## 📊 Estatísticas do GitHub
-![Estatísticas do meu GitHub](https://github-readme-stats.vercel.app/api?userna>
-
 ## ✉️ Contato
 - **GitHub:** [Padilh4](https://github.com/Padilh4)
 - **Gmail:**  arthurcpadilha@gmail.com
