@@ -6,8 +6,8 @@ Sou um desenvolvedor em evolução, focado em aprimorar habilidades em Java, Mys
 - **[GestaoFolhaPGTO](https://github.com/Padilh4/GestaoFolhaPGTO):** Um sistema de gestão de folha de pagamento em Java utilizando conceitos de herança e abstração para diferentes tipos de funcionários.
 
 ## 🛠️ Tecnologias e Ferramentas
-- **Linguagem:** Java (Foco principal)
-- **IDE:** NetBeans
+- **Linguagem:** Java (Foco principal) e JavaScript (Básico)
+- **IDE:** NetBeans e VS Code
 - **Controle de Versão:** Git & GitHub
 
 ## ✉️ Contato
